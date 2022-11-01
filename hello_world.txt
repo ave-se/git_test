@@ -1,0 +1,1 @@
+This is some text to practise using Git and Github with the Odin Project
